@@ -1,0 +1,19 @@
+# Core scientific computing
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Deep learning
+torch
+
+# Transformer and LLM components
+transformers>=4.43
+accelerate>=0.33
+bitsandbytes>=0.43
+sentencepiece
+safetensors
+huggingface_hub
+
+# Progress monitoring
+tqdm
