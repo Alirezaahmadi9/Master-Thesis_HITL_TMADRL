@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Private credentials
+.env
+.env.*
+!.env.example
+
+# Model checkpoints
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Generated experiment metrics
+run_metrics*.csv
+run_metrics*.parquet
+
+# Operating system files
+.DS_Store
+Thumbs.db
