@@ -11,9 +11,9 @@ The project investigates multi-agent reinforcement learning for residential ener
 | Notebook | Description |
 |---|---|
 | `MADRL.ipynb` | Baseline Multi-Agent Deep Reinforcement Learning implementation. |
-| `TAC_MADRL.ipynb` | Transformer/attention-based Multi-Agent Deep Reinforcement Learning implementation. |
-| `HITL_Control_Base.ipynb` | Human-in-the-Loop control implementation for the base residential energy management scenario. |
-| `HITL_Control_PV.ipynb` | Human-in-the-Loop implementation incorporating PV–battery integration and LLM-assisted preference compilation. |
+| `TAC-MADRL.ipynb` | Transformer/attention-based Multi-Agent Deep Reinforcement Learning implementation. |
+| `HITL-Control-Base.ipynb` | Human-in-the-Loop control implementation for the base residential energy management scenario. |
+| `HITL-Control-PV.ipynb` | Human-in-the-Loop implementation incorporating PV–battery integration and LLM-assisted preference compilation. |
 
 ## Key Methods
 
