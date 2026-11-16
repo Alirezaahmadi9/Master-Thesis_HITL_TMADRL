@@ -1,4 +1,4 @@
-# Core scientific computing
+# Scientific computing
 numpy
 pandas
 matplotlib
@@ -14,6 +14,3 @@ bitsandbytes>=0.43
 sentencepiece
 safetensors
 huggingface_hub
-
-# Progress monitoring
-tqdm
